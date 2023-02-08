@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "YL9xrDstcr5thL7w8cAhOfFjPiQNnt3Zp/vgc2Iy3tI=",
+  "Source": "CandellaServer",
+  "BasePath": "_content/CandellaServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
